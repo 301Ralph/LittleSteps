@@ -1,2 +1,2 @@
-# LittleSteps
+# My-First-repository
 Capstone Project
